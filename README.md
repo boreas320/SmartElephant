@@ -1,3 +1,2 @@
 SmartElephant
-Hello
-fuck
+I like git!
